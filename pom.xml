@@ -39,12 +39,12 @@
             <version>1.2</version>
         </dependency>
 
-
-        <dependency>
-            <groupId>cn.vivame.project</groupId>
-            <artifactId>fastdfs_client</artifactId>
-            <version>1.24</version>
-        </dependency>
+        <!-- fastDFS -->
+	  	<dependency>
+		  <groupId>org.csource</groupId>
+		  <artifactId>fastdfs-client-java</artifactId>
+		  <version>1.27-RELEASE</version>
+		</dependency>
         <dependency>
             <groupId>ch.ethz.ganymed</groupId>
             <artifactId>ganymed-ssh2</artifactId>
